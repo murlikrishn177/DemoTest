@@ -1,6 +1,6 @@
 public class Main1 {
     
     public static void main (String[] args) {
-        System.out.println("Krishna , World!");
+        System.out.println("WelCome To QuantumSoft Technologies");
     }
 }
